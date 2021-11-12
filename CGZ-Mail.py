@@ -50,7 +50,7 @@ os.system('clear')
 
 print(g+'\tCYBER'+r+' ~ GAMERS '+y+'~ ZONE '+c+' ~ Team '+p+'')
 print('')
-os.system('figlet -f small EmailBomb |lolcat')
+os.system('figlet -f small Shahmir Riddo  |lolcat')
 print(g+'==========='+y+'Author ~ Shahmir Riddo'+g+'===========')
 a=str(input(g+'\n\tEnter Email :'+p+' '))
 url = "https://m.cricbuzz.com/cbplus/auth/user/login"
