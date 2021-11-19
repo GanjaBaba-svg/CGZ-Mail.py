@@ -48,7 +48,14 @@ from time import sleep
 from requests.structures import CaseInsensitiveDict
 os.system('clear')
 
-print(g+'\tCYBER'+r+' ~ GAMERS '+y+'~ ZONE '+c+' ~ Team '+p+'')
+print("""
+
+█▀ █░█ ▄▀█ █░█ █▀▄▀█ █ █▀█
+▄█ █▀█ █▀█ █▀█ █░▀░█ █ █▀▄
+
+█▀█ █ █▀▄ █▀▄ █▀█
+█▀▄ █ █▄▀ █▄▀ █▄█
+""")
 print('')
 os.system('figlet -f small Shahmir Riddo  |lolcat')
 print(g+'==========='+y+'Author ~ Shahmir Riddo'+g+'===========')
