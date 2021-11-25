@@ -57,6 +57,7 @@ print("""
 █▀▄ █ █▄▀ █▄▀ █▄█
 """)
 print('')
+
 os.system('figlet -f small Shahmir Riddo  |lolcat')
 print(g+'==========='+y+'Author ~ Shahmir Riddo'+g+'===========')
 a=str(input(g+'\n\tEnter Email :'+p+' '))
