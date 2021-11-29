@@ -48,18 +48,10 @@ from time import sleep
 from requests.structures import CaseInsensitiveDict
 os.system('clear')
 
-print("""
-
-█▀ █░█ ▄▀█ █░█ █▀▄▀█ █ █▀█
-▄█ █▀█ █▀█ █▀█ █░▀░█ █ █▀▄
-
-█▀█ █ █▀▄ █▀▄ █▀█
-█▀▄ █ █▄▀ █▄▀ █▄█
-""")
+print(g+'\tCYBER'+r+' ~ GAMERS '+y+'~ ZONE '+c+' ~ Team '+p+'')
 print('')
-
-os.system('figlet -f small CGZ Mail Bomber |lolcat')
-print(g+'==========='+y+'All credit goes to Cyber Gamers Zone'+g+'===========')
+os.system('figlet -f small Shahmir Riddo  |lolcat')
+print(g+'==========='+y+'Author ~ Shahmir Riddo'+g+'===========')
 a=str(input(g+'\n\tEnter Email :'+p+' '))
 url = "https://m.cricbuzz.com/cbplus/auth/user/login"
 headers = CaseInsensitiveDict()
