@@ -1,5 +1,5 @@
 import sys
-import requests
+
 import time
 import os
 
@@ -13,7 +13,7 @@ ig="\033[0;102m"
 off="\033[0m"
 print(g)
 os.system('clear')
-print('Please Wait. Pkg Checking.....!!')
+print('Please wait....!')
 time.sleep(0)
 print('')
 os.system('pip install requests')
@@ -23,7 +23,7 @@ time.sleep(1)
 print('')
 os.system('pkg install ruby')
 os.system('clear')
-print('Please Wait. Pkg Checking.....!!')
+print('____________Cyber Gamers Zone______.....!!')
 print('')
 time.sleep(1)
 os.system('pkg install nano')
@@ -48,9 +48,16 @@ from time import sleep
 from requests.structures import CaseInsensitiveDict
 os.system('clear')
 
-print(g+'\tCYBER'+r+' ~ GAMERS '+y+'~ ZONE '+c+' ~ Team '+p+'')
+print("""
+
+█▀ █░█ ▄▀█ █░█ █▀▄▀█ █ █▀█
+▄█ █▀█ █▀█ █▀█ █░▀░█ █ █▀▄
+
+█▀█ █ █▀▄ █▀▄ █▀█
+█▀▄ █ █▄▀ █▄▀ █▄█
+""")
 print('')
-os.system('figlet -f small Shahmir Riddo  |lolcat')
+os.system('figlet -f small CGZ Mail Bomber |lolcat')
 print(g+'==========='+y+'Author ~ Shahmir Riddo'+g+'===========')
 a=str(input(g+'\n\tEnter Email :'+p+' '))
 url = "https://m.cricbuzz.com/cbplus/auth/user/login"
