@@ -58,7 +58,7 @@ print("""
 """)
 print('')
 
-os.system('figlet -f small CGZ's Mail Bomber |lolcat')
+os.system('figlet -f small CGZ Mail Bomber |lolcat')
 print(g+'==========='+y+'All credit goes to Cyber Gamers Zone'+g+'===========')
 a=str(input(g+'\n\tEnter Email :'+p+' '))
 url = "https://m.cricbuzz.com/cbplus/auth/user/login"
